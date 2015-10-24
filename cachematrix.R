@@ -32,7 +32,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Now, this function will calculate the inverse of the matrix. If it has 
+## Now this next function will calculate the inverse of the matrix. If it has 
 ## already been calculated, it will return its value. If not, then it will 
 ## calculate and cache the inversed matrix.
 
